@@ -6,6 +6,7 @@ There is a video explaining how this works at: https://youtu.be/0UIqhCjMC0U
 To run this you will need to install Python 3
 
 Then you will need to install certain modules, this can be done by running
+
 pip3 install  svgpathtools numpy typer
 
 Usage: oval_kerf.py [OPTIONS] FILENAME
